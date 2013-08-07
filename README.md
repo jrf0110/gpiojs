@@ -1,6 +1,6 @@
 # GPIO.js - For now, a simple wrapper
 
-3 This is a stupid module. It just spawns a new new process in order to communicate with gpio. Will     eventually make a c module that will do better. I couldn't get the other node modules to work, so I made this simple wrapper.
+This is a stupid module for controlling the GPIO ports on the Raspberry Pi. It just spawns a new new process in order to communicate with gpio. I'll eventually make a c module that will do better. I couldn't get the other node modules to work, so I made this simple wrapper. Sorry it is so dumb.
 
 ___Requires (wiringpi)[https://projects.drogon.net/raspberry-pi/wiringpi/]___
 
