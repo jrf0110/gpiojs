@@ -1,0 +1,29 @@
+{
+  "name": "gpiojs",
+  "version": "0.1.0",
+  "description": "Raspberry Pi GPIO module for node.js ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "convert-text-table": "~0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/gpiojs.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "gpio"
+  ],
+  "author": "John Fawcett",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "46e63e35c57a5e77b8a2bc5f936901ecd97efdcd"
+}
